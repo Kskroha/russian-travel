@@ -1,0 +1,9 @@
+.page {
+  background-color: #2A2C2F;
+  width: 100vw;
+  height: 100vh;
+}
+
+.cover__background {
+  background-image: url(../../../images/cover-trains.jpg);
+}
